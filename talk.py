@@ -38,7 +38,7 @@ class BotHandler:
 
 
 ## TOKEN - INSERT YOUR TOKEN HERE
-token = "465893878:AAEXzvYvvHdbZuyguR37sTjYmRkuFl8Yvb0"
+token = 'your token'
 greet_bot = BotHandler(token)
 greetings = ('здравствуй', 'привет', 'ку', 'hello')
 now = datetime.datetime.now()
